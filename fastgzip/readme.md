@@ -1,5 +1,7 @@
 # FastGZIP
 
+## Usage
+
 ```
 fastzip [-options] [<input file>]
 
@@ -12,3 +14,8 @@ Usage of fastzip:
         split number. Saved as '{name}.{number}.gz' if 1 < n (default 1)
 ```
 
+## Install
+
+```shell
+go install github.com/2minchul/scripts/fastgzip@latest
+```
