@@ -3,9 +3,9 @@
 ## Usage
 
 ```
-fastzip [-options] [<input file>]
+fastgzip [-options] [<input file>]
 
-Usage of fastzip:
+Usage of fastgzip:
     -d string
         output directory. Default is ./
     -f string
